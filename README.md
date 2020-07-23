@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi, I am a student of B.Tech in the electrical engineering department, born in 2000, live in Kolkata, India. I am passionate about electrical machines and how power generated at power stations. Apart from that in my free time I create and design interactive and responsive websites for businesses. Proficient in web development I enjoy a cup of coffee, web programming, painting, watching series, photography and doing anything music-related.
+
+<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
 
 <!--![Riju Sharma github stats]
 (https://github-readme-stats.vercel.app/api?username=rijushm&show_icons=true&theme=tokyonight)-->
