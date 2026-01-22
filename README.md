@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 Graduated from Techno International College, 2021
 - 👯 Developing UX from scratch
 - 🤔 I’m looking for help with web designing knowledge
-- 💬 2+ Years of experience
+- 💬 5+ Years of experience
 - 📫 Reach me: contact details given below
 
 
