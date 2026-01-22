@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 Reach me: contact details given below
 
 
-The design, development and management of brand's website is my daily work. My mission is to expand the potential of online existence. I can do some cool stuff like javascript animation, lovable interactions, or managing and analyzing website traffic. I have got an experience of more than 2 years in the design field and contineously working to give my best to every client’s or brand’s needs.
+The design, development and management of brand's website is my daily work. My mission is to expand the potential of online existence. I can do some cool stuff like javascript animation, lovable interactions, or managing and analyzing website traffic. I have got an experience of more than 5 years in the design field and contineously working to give my best to every client’s or brand’s needs.
 
 <a href="https://www.linkedin.com/in/rijusharma1/"><img src="https://img.icons8.com/32/FFFFFF/linkedin.png"/></a>&nbsp;&nbsp;<a href="mailto:rijushm@gmail.com"><img src="https://img.icons8.com/32/FFFFFF/email.png"/></a>&nbsp;&nbsp;<a href="https://api.whatsapp.com/send?phone=6290333182"><img src="https://img.icons8.com/32/FFFFFF/whatsapp.png"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/therijusharma/"><img src="https://img.icons8.com/32/FFFFFF/instagram-new.png"/></a>
 
